@@ -1,0 +1,5 @@
+{
+  "runtime_models": "2025-06-09_18-40-32",
+  "classifier_type": "svm",
+  "sentence_transformer_model": "all-MiniLM-L6-v2"
+}
